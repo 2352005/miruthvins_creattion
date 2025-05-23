@@ -908,15 +908,7 @@ footer {
     margin-right: 0.5rem;
 }
 
-@media (max-width: 768px) {
-    .hover-overlay {
-        display: none !important;
-    }
 
-    .mobile-whatsapp-btn {
-        display: flex;
-    }
-}
 
 
 @media (max-width: 600px) {
